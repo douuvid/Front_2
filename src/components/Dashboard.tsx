@@ -23,6 +23,7 @@ import JobCriteriaForm from "./JobCriteriaForm";
 import JobMatchAnalysis from "./JobMatchAnalysis";
 import { ThemeToggle } from "./ThemeToggle";
 import { AccessibilityMenu } from "./AccessibilityMenu";
+import PoleEmploiDashboard from "./PoleEmploiDashboard";
 
 interface DashboardProps {
   userName?: string;
